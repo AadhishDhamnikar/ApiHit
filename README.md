@@ -1,2 +1,0 @@
-# ApiHit
-Created with CodeSandbox
